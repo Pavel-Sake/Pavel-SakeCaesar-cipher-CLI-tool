@@ -1,0 +1,18 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeJS",
+    "js"
+  ],
+  "author": "Pavel Sakovich <sake211091@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
